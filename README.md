@@ -1,5 +1,7 @@
 # Example app for CI Hexlet course
 
+[![main](https://github.com/SerzhSterl/hexlet-ci-app/actions/workflows/ci-app-workflow.yml/badge.svg)](https://github.com/SerzhSterl/hexlet-ci-app/actions/workflows/ci-app-workflow.yml)
+
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
 ## System requirements
